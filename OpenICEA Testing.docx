@@ -1,0 +1,24 @@
+OpenICEA TESTING DOC
+===========================
+
+
+Encounter>single status====There shouldn’t be a spouse option for the single status ==resolved
+Enounter null values ===resolved
+
+RESOLVED
+========
+Encounter>visitor====Some fields are undefined (spouse, others, etc)
+Lab Requisition====Submission of empty requisition 
+Prescription>Add item====Focus into the entry field
+Lab Requisition === Cant edit
+Lab Requisition>biopsy====Unchecked biopsy should disable the specify entry area
+Triage====Add Height, MUAC
+Triage====Validate temperature (should accept the normal ranges) and BP (low should not be more than high and acceptable ranges) 
+Lab Requisition====Resetting already checked test on selecting the sample type
+DSDM type====Inquiry to know more about
+
+UNRESOLVED
+==========
+Enter results====When you enter for either general or HIV, the other disappears
+General Requisition results=====Error message not well formed
+DSDMType

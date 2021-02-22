@@ -1,0 +1,907 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.89 595.28]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 1188>>
+stream
+0.57 w
+0 G
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+56.69 510.24 Td
+(This is courier normal.) Tj
+ET
+q
+0.78 0.78 0.78 rg
+70.87 496.07 578.80 -60.66 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+79.37 443.91 Td
+(Drugs) Tj
+ET
+0.78 0.78 0.78 rg
+70.87 350.37 75.12 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+79.37 298.21 Td
+(Drug Name) Tj
+ET
+0.78 0.78 0.78 rg
+145.99 350.37 35.53 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+154.49 298.21 Td
+(Dose) Tj
+ET
+0.78 0.78 0.78 rg
+181.52 350.37 86.29 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+190.02 298.21 Td
+(Preparation) Tj
+ET
+0.78 0.78 0.78 rg
+267.80 350.37 97.45 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+276.31 298.21 Td
+(Measurement) Tj
+ET
+0.78 0.78 0.78 rg
+365.26 350.37 82.23 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+373.76 298.21 Td
+(ShortName) Tj
+ET
+0.78 0.78 0.78 rg
+447.48 350.37 67.00 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+455.99 298.21 Td
+(Medicine Type) Tj
+ET
+0.78 0.78 0.78 rg
+514.48 350.37 39.59 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+522.99 298.21 Td
+(For Sale?) Tj
+ET
+0.78 0.78 0.78 rg
+554.07 350.37 77.15 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+562.58 298.21 Td
+(Unit_Price) Tj
+ET
+0.78 0.78 0.78 rg
+631.22 350.37 48.73 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+639.73 298.21 Td
+(Action) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.89 595.28]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<</Length 2790>>
+stream
+0.57 w
+0 G
+0.78 0.78 0.78 rg
+70.87 558.43 75.12 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+79.37 506.27 Td
+(Drug Name) Tj
+ET
+0.78 0.78 0.78 rg
+145.99 558.43 35.53 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+154.49 506.27 Td
+(Dose) Tj
+ET
+0.78 0.78 0.78 rg
+181.52 558.43 86.29 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+190.02 506.27 Td
+(Preparation) Tj
+ET
+0.78 0.78 0.78 rg
+267.80 558.43 97.45 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+276.31 506.27 Td
+(Measurement) Tj
+ET
+0.78 0.78 0.78 rg
+365.26 558.43 82.23 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+373.76 506.27 Td
+(ShortName) Tj
+ET
+0.78 0.78 0.78 rg
+447.48 558.43 67.00 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+455.99 506.27 Td
+(Medicine Type) Tj
+ET
+0.78 0.78 0.78 rg
+514.48 558.43 39.59 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+522.99 506.27 Td
+(For Sale?) Tj
+ET
+0.78 0.78 0.78 rg
+554.07 558.43 77.15 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+562.58 506.27 Td
+(Unit_Price) Tj
+ET
+0.78 0.78 0.78 rg
+631.22 558.43 48.73 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+639.73 506.27 Td
+(Action) Tj
+ET
+70.87 530.08 75.12 -269.29 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+79.37 477.93 Td
+(New) Tj
+T* (Drug) Tj
+ET
+145.99 530.08 35.53 -269.29 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+154.49 477.93 Td
+(un) Tj
+T* (de) Tj
+T* (fi) Tj
+T* (ne) Tj
+T* (d) Tj
+ET
+181.52 530.08 86.29 -269.29 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+190.02 477.93 Td
+(undefine) Tj
+T* (d) Tj
+ET
+267.80 530.08 97.45 -269.29 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+276.31 477.93 Td
+(undefined) Tj
+ET
+365.26 530.08 82.23 -269.29 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+373.76 477.93 Td
+(undefin) Tj
+T* (ed) Tj
+ET
+447.48 530.08 67.00 -269.29 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+455.99 477.93 Td
+(undefi) Tj
+T* (ned) Tj
+ET
+514.48 530.08 39.59 -269.29 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+522.99 477.93 Td
+(und) Tj
+T* (efi) Tj
+T* (ned) Tj
+ET
+554.07 530.08 77.15 -269.29 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+562.58 477.93 Td
+(undefin) Tj
+T* (ed) Tj
+ET
+631.22 530.08 48.73 -269.29 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+639.73 477.93 Td
+(unde) Tj
+T* (fine) Tj
+T* (d) Tj
+ET
+70.87 260.79 75.12 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+79.37 208.64 Td
+(Efavir) Tj
+T* (enz) Tj
+ET
+145.99 260.79 35.53 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+154.49 208.64 Td
+(60) Tj
+T* (0) Tj
+ET
+181.52 260.79 86.29 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+190.02 208.64 Td
+(Intraven) Tj
+T* (us) Tj
+ET
+267.80 260.79 97.45 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+276.31 208.64 Td
+(Milligram) Tj
+T* (s) Tj
+ET
+365.26 260.79 82.23 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+373.76 208.64 Td
+(-) Tj
+ET
+447.48 260.79 67.00 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+455.99 208.64 Td
+(ARV) Tj
+ET
+514.48 260.79 39.59 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+522.99 208.64 Td
+(Yes) Tj
+ET
+554.07 260.79 77.15 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+562.58 208.64 Td
+(500) Tj
+ET
+631.22 260.79 48.73 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+639.73 208.64 Td
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.89 595.28]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<</Length 3459>>
+stream
+0.57 w
+0 G
+0.78 0.78 0.78 rg
+70.87 558.43 75.12 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+79.37 506.27 Td
+(Drug Name) Tj
+ET
+0.78 0.78 0.78 rg
+145.99 558.43 35.53 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+154.49 506.27 Td
+(Dose) Tj
+ET
+0.78 0.78 0.78 rg
+181.52 558.43 86.29 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+190.02 506.27 Td
+(Preparation) Tj
+ET
+0.78 0.78 0.78 rg
+267.80 558.43 97.45 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+276.31 506.27 Td
+(Measurement) Tj
+ET
+0.78 0.78 0.78 rg
+365.26 558.43 82.23 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+373.76 506.27 Td
+(ShortName) Tj
+ET
+0.78 0.78 0.78 rg
+447.48 558.43 67.00 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+455.99 506.27 Td
+(Medicine Type) Tj
+ET
+0.78 0.78 0.78 rg
+514.48 558.43 39.59 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+522.99 506.27 Td
+(For Sale?) Tj
+ET
+0.78 0.78 0.78 rg
+554.07 558.43 77.15 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+562.58 506.27 Td
+(Unit_Price) Tj
+ET
+0.78 0.78 0.78 rg
+631.22 558.43 48.73 -269.29 re
+B
+BT
+/F6 16 Tf
+18.4 TL
+0 g
+639.73 506.27 Td
+(Action) Tj
+ET
+70.87 530.08 75.12 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+79.37 477.93 Td
+(trivud) Tj
+T* (a) Tj
+ET
+145.99 530.08 35.53 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+154.49 477.93 Td
+(50) Tj
+T* (0) Tj
+ET
+181.52 530.08 86.29 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+190.02 477.93 Td
+(Solution) Tj
+ET
+267.80 530.08 97.45 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+276.31 477.93 Td
+(Milligram) Tj
+T* (s) Tj
+ET
+365.26 530.08 82.23 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+373.76 477.93 Td
+(-) Tj
+ET
+447.48 530.08 67.00 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+455.99 477.93 Td
+(ARV) Tj
+ET
+514.48 530.08 39.59 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+522.99 477.93 Td
+(No) Tj
+ET
+554.07 530.08 77.15 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+562.58 477.93 Td
+(50) Tj
+ET
+631.22 530.08 48.73 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+639.73 477.93 Td
+() Tj
+ET
+70.87 417.26 75.12 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+79.37 365.11 Td
+(Nevira) Tj
+T* (pine) Tj
+ET
+145.99 417.26 35.53 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+154.49 365.11 Td
+(20) Tj
+T* (0) Tj
+ET
+181.52 417.26 86.29 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+190.02 365.11 Td
+(Capsule) Tj
+ET
+267.80 417.26 97.45 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+276.31 365.11 Td
+(Milligram) Tj
+T* (s) Tj
+ET
+365.26 417.26 82.23 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+373.76 365.11 Td
+(-) Tj
+ET
+447.48 417.26 67.00 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+455.99 365.11 Td
+(Non-AR) Tj
+T* (V) Tj
+ET
+514.48 417.26 39.59 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+522.99 365.11 Td
+(Yes) Tj
+ET
+554.07 417.26 77.15 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+562.58 365.11 Td
+(200) Tj
+ET
+631.22 417.26 48.73 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+639.73 365.11 Td
+() Tj
+ET
+70.87 304.45 75.12 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+79.37 252.29 Td
+(test 2) Tj
+ET
+145.99 304.45 35.53 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+154.49 252.29 Td
+(30) Tj
+ET
+181.52 304.45 86.29 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+190.02 252.29 Td
+(Tablet) Tj
+ET
+267.80 304.45 97.45 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+276.31 252.29 Td
+(Milligram) Tj
+T* (s) Tj
+ET
+365.26 304.45 82.23 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+373.76 252.29 Td
+(tt) Tj
+ET
+447.48 304.45 67.00 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+455.99 252.29 Td
+(ARV) Tj
+ET
+514.48 304.45 39.59 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+522.99 252.29 Td
+(Yes) Tj
+ET
+554.07 304.45 77.15 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+562.58 252.29 Td
+(200) Tj
+ET
+631.22 304.45 48.73 -112.82 re
+S
+BT
+/F5 16 Tf
+18.4 TL
+0 g
+639.73 252.29 Td
+() Tj
+ET
+Q
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+17 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+18 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+19 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+20 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+21 0 obj
+<</BaseFont/ZapfDingbats/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+22 0 obj
+<<
+/Producer (jsPDF 1.3.2 2016-09-30T20:33:17.116Z:jameshall)
+/CreationDate (D:20200914025651+03'00')
+>>
+endobj
+23 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000007923 00000 n 
+0000009233 00000 n 
+0000000009 00000 n 
+0000000118 00000 n 
+0000001356 00000 n 
+0000001465 00000 n 
+0000004305 00000 n 
+0000004414 00000 n 
+0000007992 00000 n 
+0000008082 00000 n 
+0000008178 00000 n 
+0000008277 00000 n 
+0000008380 00000 n 
+0000008469 00000 n 
+0000008563 00000 n 
+0000008660 00000 n 
+0000008761 00000 n 
+0000008854 00000 n 
+0000008946 00000 n 
+0000009040 00000 n 
+0000009138 00000 n 
+0000009473 00000 n 
+0000009594 00000 n 
+trailer
+<<
+/Size 24
+/Root 23 0 R
+/Info 22 0 R
+>>
+startxref
+9698
+%%EOF

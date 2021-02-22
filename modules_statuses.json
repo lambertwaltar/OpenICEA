@@ -1,0 +1,6 @@
+{
+    "User": true,
+    "Patient": true,
+    "Prescription": true,
+    "Laboratory": true
+}

@@ -1,0 +1,105 @@
+/*
+Credits:
+Code snippet by @maridlcrmn (Follow me on Twitter)
+Images by Nike.com (http://www.nike.com/us/en_us/)
+Logo by Sneaker-mission.com (http://www.sneaker-mission.com/)
+*/
+
+.row{
+
+  margin-right: auto; /* 1 */
+  margin-left:  auto; /* 1 */
+  /*max-width: 960px; /* 2 */
+  padding-right: 10px; /* 3 */
+  padding-left:  10px; /* 3 */
+  background: #f7f7fa;
+}
+
+li{
+
+  text-align: center;
+  /*border-left: solid #f2f5f2;*/
+  padding: 0 10px;
+}
+li p {
+
+  font-size: 0.8em;
+}
+.page-heading{
+  font-size:1em; 
+  font-weight:300; 
+  margin-top: 5px; 
+  letter-spacing: 0.2em;
+}
+/*
+.active, .nav-item:hover {
+  background-color: #666;
+  color: #ffffff !important;
+}
+*/
+
+#searchform{
+  width: auto !important;
+  margin: 1px !important;
+  display: flex;
+
+}
+#searchform .action-button {
+  width: auto !important;
+  padding: 5px 20px !important;
+  font-weight: 200;
+  background: #0062cc !important;
+  color: white;
+  border: 0 none;
+  border-radius: 1px;
+  cursor: pointer;
+
+}
+#searchform input, #msform textarea {
+    padding: 7px;
+    border: 1px solid #ccc !important;
+   /* border-radius: 3px;*/
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+    max-width: 200px;
+}
+#searchform input[type=number] {
+  -moz-appearance: textfield;
+  -webkit-appearance: none; 
+}
+#searchform input::-webkit-outer-spin-button,input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+#enrolmenthistorytable {
+  position: relative;
+  padding: 5px !important;
+}
+
+#enrolmenthistorytable th{
+  color: #808080;
+  background: #f0f1f2 !important;
+  padding-left: 2%;
+  line-height: 2.9 !important;
+}
+
+.modal-body .container-table100 {
+    padding:0 !important;
+}
+
+#encounterpatientdetailstable{
+  position: relative;
+  padding: 5px !important;
+  text-align:left;
+}
+#encounterpatientdetailstable th{
+  color: #808080;
+  background: none;
+  padding-left: 2%;
+  line-height: 2.9 !important;
+  text-align:left !important;
+}
